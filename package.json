@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IA26/the-brews-back-end/issues"
   },
-  "homepage": "https://github.com/IA26/the-brews-back-end#readme"
+  "homepage": "https://github.com/IA26/the-brews-back-end#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
